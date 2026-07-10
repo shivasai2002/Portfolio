@@ -1,0 +1,10 @@
+Your transition folder now has 6 files:
+
+
+CAREER STRATEGY (Where to go, when to apply, how to grow).md
+TECHNICAL BLUEPRINT (What to learn, how to build, architecture).docx
+DAILY REFERENCE (Quick weekly guide).md
+GenAI_Agentic_AI_Roadmap_README.md
+SECURITY.md        ← new
+PROJECT_TEMPLATE.md ← new
+When you start Project 1 this weekend — copy PROJECT_TEMPLATE.md and SECURITY.md into the new repo folder. Everything is pre-structured from day one.
